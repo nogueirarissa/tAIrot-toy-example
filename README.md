@@ -8,7 +8,7 @@
 
 ## Links úteis: 
 
-*OPEN AI [https://openai.com]
+* Open AI [https://openai.com]
 
 * Documentação Open API [piphttps://platform.openai.com/docs/api-reference/streaming]
 
