@@ -10,7 +10,7 @@
 
 * Open AI [https://openai.com]
 
-* Documentação Open API [piphttps://platform.openai.com/docs/api-reference/streaming]
+* Documentação Open API [https://platform.openai.com/docs/api-reference/streaming]
 
 * Github Codespaces  [https://github.com/codespaces]  
 
