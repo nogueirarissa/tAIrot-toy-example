@@ -12,7 +12,11 @@
 
 * Documentação Open API [https://platform.openai.com/docs/api-reference/streaming]
 
-* Github Codespaces  [https://github.com/codespaces]  
+* Github Codespaces  [https://github.com/codespaces]
+
+### Introdução a modelos de IA
+
+* Hands-on com a Camilly [https://github.dev/Camilly-Alveess/Introdu-o-a-modelos-de-IA/blob/codespace-congenial-carnival-r4gwr4wq6qxpcx6wj/notebooks/Case_CampanhaDeMarketing%20-%20Parte%201.ipynb]
 
 ### Trechos de código para nos ajudar:
 
@@ -55,5 +59,5 @@ for chunk in stream:
 ```
 
 - Minha chave super secreta
-* Doczin
+* Doczin [https://www.invertexto.com/larissanogueira]
 
