@@ -59,5 +59,5 @@ for chunk in stream:
 ```
 
 - Minha chave super secreta
-* Doczin [https://www.invertexto.com/larissanogueira]
+* Doczin 
 
